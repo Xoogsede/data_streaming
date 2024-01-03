@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# data_streaming
-Real-Time Data Streaming and Storage
-=======
 # Real-Time Data Streaming and Storage
 
 ## Overview
@@ -65,12 +61,3 @@ This project uses Docker Compose to manage its services. The `docker-compose.yml
 ## Installation
 Instructions for setting up Apache Airflow, Kafka, Spark, and Cassandra are beyond the scope of this README. Refer to the respective official documentation for installation and setup guidelines.
 
-
-
-## License
-[Specify the License Here]
-
----
-
-*This README is a general guide. Please refer to the specific documentation of each technology used for detailed instructions and best practices.*
->>>>>>> b7cc1c4 (first commit)
